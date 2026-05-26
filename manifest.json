@@ -1,7 +1,6 @@
 {
   "name": "سنا النور",
   "short_name": "سنا النور",
-  "description": "تطبيق سنا النور",
   "start_url": "/focusline/",
   "display": "standalone",
   "background_color": "#000000",
